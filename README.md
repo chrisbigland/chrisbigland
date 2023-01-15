@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrisbigland
 - 👀 I’m interested in ...languages, music, learning about new cultures. 
-- 🌱 I’m currently learning ...React as a _nology Student!
+- 🌱 I’m currently learning ...React as a student at _nology, Bristol!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... christopherbigland@gmail.com
 

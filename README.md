@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chrisbigland
 - 👀 I’m interested in ...languages, music, learning about new cultures. 
-- 🌱 I’m currently learning ...React as a student at _nology, Bristol!
-- 💞️ I’m looking to collaborate on ...
+- 🧠 I’m currently learning ...Email development in HTML/CSS. 
+- 🌱 I’m currently working at Flourish, Bristol.
 - 📫 How to reach me ... christopherbigland@gmail.com
 
 <!---
